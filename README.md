@@ -348,8 +348,5 @@ This is a real-time audio tool. If you use it for transmitting, you are responsi
 - Avoiding over-deviation / splatter
 - Keeping levels safe for your gear
 
----
 
-## License
 
-Choose a license that fits your repo (MIT / GPL / etc.) and add it here.
